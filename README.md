@@ -1,7 +1,7 @@
 # raspberrypiTempSensor
 Code for displaying DHT11 or DHT22 data
 
-This file is not made to be excecuted, it is simply educational. I used this code for my 10th grade personal project (personal projects are a part of the IB diploma) This code would be used to display data from a DHT11 or DHT22 to either a SSH terminal or a LCD display. The wiring and setup is shown below:
+This file is not made to be excecuted, it is simply educational. I used this code for my 10th grade personal project (personal projects are a part of the IB diploma) This code would be used to display data from a DHT11 or DHT22 to either a SSH terminal or a LCD display. This code is commented to make it easier to read, feel free to use the script if neccesary. The wiring and setup is shown below:
 
 
 **Wirirng and Setup for SSH Terminal output:**
